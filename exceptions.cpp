@@ -24,10 +24,9 @@ int main()
 {
     std::stack<int> stackOfNumbers;
 
-    stackOfNumbers.push(100);
-    stackOfNumbers.push(200);
-    stackOfNumbers.push(300);
-
+    stackOfNumbers.push(1000);
+    stackOfNumbers.push(2000);
+    stackOfNumbers.push(3000);
 
 
     while (!stackOfNumbers.empty()) {

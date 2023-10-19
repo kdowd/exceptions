@@ -24,9 +24,9 @@ int main()
 {
     std::stack<int> stackOfNumbers;
 
-    stackOfNumbers.push(1);
-    stackOfNumbers.push(2);
-    stackOfNumbers.push(3);
+    stackOfNumbers.push(100);
+    stackOfNumbers.push(200);
+    stackOfNumbers.push(300);
 
 
 
